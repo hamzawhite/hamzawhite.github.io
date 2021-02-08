@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-I'm a data scientist, industrial engineer. with experience in data management and data cisualization using R and Python. afterwork, you can find me coding or drawing.
+I'm a data scientist, industrial engineer. with experience in data management and data visualization using R and Python. afterwork, you can find me coding or drawing.
 
 [Resume](https://hamzawhite.github.io/cv/)
 
