@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 ## Bio
----
+
 I'm a data scientist, industrial engineer, afterwork i'm coding and drawing. with experience in data management and data cisualization using R and Python.
 
 [Resume](https://hamzawhite.github.io/cv/)
+
+## Projects
+
+[Fleet performance visualization](https://www.rpubs.com/himl/fleet_performance_report)
