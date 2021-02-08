@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S in Applied mathematics, Ibn Zohr University, 2014
+* M.S. in industrial engineering, Mohammadia School of engineering, 2018
+
 
 Work experience
 ======
@@ -22,19 +22,19 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Process intern
+  * Lafarge, Meknes, Morocco
+  * Duties included: Diagnosed the dosing regulator.
+  * Supervisor: Mr. Hamza Moussafir
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Manufacturing processes
+* Data Management
+  * data cleansing
+  * data completeness
+
+* Data visualization
 
 Publications
 ======
