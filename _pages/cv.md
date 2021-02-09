@@ -18,6 +18,18 @@ Education
 
 Work experience
 ======
+* 09-2019 to 10-2020: Business data analyst
+---
+  * Mixtra Trans, Agadir, Morocco
+  * Duties included:
+    * Designed the technical specifications, centralized and deployed the fleet management system.
+    * Conducted Features selection and present information using data visualization techniques
+    * Produced ML models to predict the behavior of the transportation process variables.
+    * Recognize valuable data sources and automate collection and storage procedure.
+    * Cleaned and prepared structured and unstructured data, for appropriate statistical analysis.
+    * Coordinated and supported the team in the daily activities, HSSE insurance, and vehicles routing.
+  * Supervisor: Pr. Mohamed Mliha
+
 * Spring 2018: Development Intern
 ---
   * Vivo Energy, Casablanca, Morocco
