@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S in Applied mathematics, Ibn Zohr University, 2014
 * M.S. in industrial engineering, Mohammadia School of engineering, 2018
+* B.S in Applied mathematics, Ibn Zohr University, 2014
+
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Development Intern
+  * ONCF, Rabat, Morocco
+  * Duties included: Design the technical specifications
+  * Supervisor: Pr. Mohamed Charkaoui
 
 * Summer 2015: Process intern
   * Lafarge, Meknes, Morocco
@@ -29,12 +30,28 @@ Work experience
   
 Skills
 ======
-* Manufacturing processes
+
 * Data Management
   * data cleansing
   * data completeness
+  * data collection
+  
+* Web services
+  * Rest API
+  * Process automation
 
-* Data visualization
+
+* Communication
+  * Data visualization
+  * Presentation
+
+* Industry
+  * Manufacturing processes
+
+* Visual Arts
+  * scientific illustration
+  * comics
+  * Character design
 
 Publications
 ======
