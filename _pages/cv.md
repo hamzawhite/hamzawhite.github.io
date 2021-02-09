@@ -19,24 +19,28 @@ Education
 Work experience
 ======
 * Spring 2018: Development Intern
+---
   * Vivo Energy, Casablanca, Morocco
   * Duties included:
     * Design the technical specifications of CMMS
     * Model the waiting time of aeronefs in aerodromes.
     * Conducted Business Continuity Plan in aerodrome of Agadir.
   * Supervisor: Pr. Mohamed Mliha
----
+
 * Summer 2017: Development Intern
+---
   * Al Barid Bank, Rabat, Morocco
   * Duties included: Model the estimated routing time of parcels. 
   * Supervisor: Bassam Derkaoui
----
+
 * Spring 2017: Development Intern
+---
   * ONCF, Rabat, Morocco
   * Duties included: Design the technical specifications
   * Supervisor: Pr. Mohamed Charkaoui
----
+
 * Summer 2015: Process intern
+---
   * Lafarge, Meknes, Morocco
   * Duties included: Diagnosed the dosing regulator.
   * Supervisor: Mr. Hamza Moussafir
