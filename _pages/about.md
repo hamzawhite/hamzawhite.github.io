@@ -17,7 +17,7 @@ Interested in Data-driven problem solving techniques, Product design, and machin
 
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis.
 
-[Resume](https://hamzawhite.github.io/cv/)
+Here the [Resume](https://hamzawhite.github.io/cv/)
 
 ## Projects
 
