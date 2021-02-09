@@ -15,6 +15,8 @@ I helped businesses to master their operations using data management and data sc
 I completed my M.Sc in Industrial engineering at [Mohammadia School of engineering](https://www.emi.ac.ma/) with a minor in Operations research.
 Interested in Data-driven problem solving techniques, Product design, and machine learning.
 
+I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.
+
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis.
 
 Here the [Resume](https://hamzawhite.github.io/cv/)
