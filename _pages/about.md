@@ -19,7 +19,7 @@ I develop statistical methods and software to extract useful insights from compl
 
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis.
 
-Here the [Resume](https://hamzawhite.github.io/cv/)
+Here my [Resume](https://hamzawhite.github.io/cv/)
 
 ## Selected projects
 
