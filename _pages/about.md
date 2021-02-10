@@ -31,7 +31,7 @@ Here the [Resume](https://hamzawhite.github.io/cv/)
 - Outlier detection
 - Process automation
 
-[Web app to control fleet tracking](https://www.rpubs.com/724088)
+[Web app to control fleet tracking](https://www.rpubs.com/himl/724088)
 
 Technologies used
 - Rest API
