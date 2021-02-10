@@ -27,7 +27,7 @@ Here the [Resume](https://hamzawhite.github.io/cv/)
 - visualization techniques
 - Data preparation
 
-[Anomaly detection in the transportation process](https://rpubs.com/himl/Transportation_operations_analysis) 
+[Anomaly detection in the transportation process](https://rpubs.com/himl/713598) 
 - Outlier detection
 - Process automation
 
