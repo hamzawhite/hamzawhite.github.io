@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in industrial engineering, Mohammadia School of engineering, 2018
+* M.S. in industrial engineering, Minor: Operations research, Mohammadia School of engineering, 2018
 * B.S in Applied mathematics, Ibn Zohr University, 2014
 
 
