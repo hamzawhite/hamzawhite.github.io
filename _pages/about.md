@@ -21,7 +21,7 @@ In my free time, I enjoy drawing, traveling / Hiking, and playing tennis.
 
 Here the [Resume](https://hamzawhite.github.io/cv/)
 
-## Projects
+## Selected projects
 
 [Fleet performance visualization](https://www.rpubs.com/himl/fleet_performance_report)
 - visualization techniques
