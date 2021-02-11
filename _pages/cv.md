@@ -69,18 +69,25 @@ Skills
   * Rest API
   * Process automation
 
-
 * Communication
   * Data visualization
   * Presentation
 
 * Industry
   * Manufacturing processes
+  * Statistical process control
+  * Design of Experiments
+  * Operations research
 
 * Visual Arts
   * scientific illustration
   * comics
   * Character design
+  
+* IT Skills
+  * R: Tydiverse, Shiny, Plotly, leaflet, httr
+  * Python
+  * Ms Excel
 
 Publications
 ======
