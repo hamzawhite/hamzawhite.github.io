@@ -12,32 +12,29 @@ redirect_from:
 
 I am a data scientist, industrial engineer. with experience in data management and data visualization using R and Python.
 I helped businesses to master their operations using data management and data science techniques.
-I completed my M.Sc in Industrial engineering at [Mohammadia School of engineering](https://www.emi.ac.ma/) with a minor in Operations research.
+I completed my M.Sc in Industrial engineering at __[Mohammadia School of engineering](https://www.emi.ac.ma/)__ with a minor in Operations research.
 Interested in Data-driven problem solving techniques, Product design, and machine learning.
 
 I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.
 
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis.
 
-Here my [Resume](https://hamzawhite.github.io/cv/)
+Here my __[Resume](https://hamzawhite.github.io/cv/)__
 
 ## Selected projects
 
-[Fleet performance visualization](https://www.rpubs.com/himl/fleet_performance_report)
+__[Fleet performance visualization](https://www.rpubs.com/himl/fleet_performance_report)__
 - visualization techniques
 - Data preparation
 
-[Anomaly detection in the transportation process](https://rpubs.com/himl/713598) 
+__[Anomaly detection in the transportation process](https://rpubs.com/himl/713598)__
 - Designed data mining and time series methods to improve anomaly detection in the transportation process.
 
-[Fleet tracking web app](https://rpubs.com/himl/724135)
+__[Fleet tracking web app](https://rpubs.com/himl/724135)__
 
 Technologies used
-- Rest API
-- Can bus
-- R Shiny, UX/UI
-- Remote data storage
+- Rest API, Can bus, R Shiny, UX/UI, Remote data storage
 
-[Driver behavior clustering]()
+__[Driver behavior clustering]()__
 - Developed machine learning methods for driver behavior learning.
 
