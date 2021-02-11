@@ -28,7 +28,7 @@ Work experience
     * Recognize valuable data sources and automate collection and storage procedure.
     * Cleaned and prepared structured and unstructured data, for appropriate statistical analysis.
     * Coordinated and supported the team in the daily activities, HSSE insurance, and vehicles routing.
-  * Supervisor: Pr. Mohamed Mliha
+  * Supervisor: Mr. Salaheddine Ait Ouakrim .Ing
 
 * Spring 2018: Development Intern
 ---
