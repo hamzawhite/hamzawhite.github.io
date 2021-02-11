@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning au service de l’industrie du voyage'
 date: 2017-02-27
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/machine-learning-voyage/
 tags:
   - transportation
   - data analysis
