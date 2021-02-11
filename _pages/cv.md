@@ -18,8 +18,7 @@ Education
 
 Work experience
 ======
-* 09-2019 to 10-2020: Business data analyst
----
+**09/2019 - 10/2020 | Business data analyst | Mixtra Trans**
   * Mixtra Trans, Agadir, Morocco
   * Duties included:
     * Designed the technical specifications, centralized and deployed the fleet management system.
@@ -30,8 +29,7 @@ Work experience
     * Coordinated and supported the team in the daily activities, HSSE insurance, and vehicles routing.
   * Supervisor: Mr. Salaheddine Ait Ouakrim .Ing
 
-* Spring 2018: Development Intern
----
+**03/2018 - 06/2018: Development Intern**
   * Vivo Energy, Casablanca, Morocco
   * Duties included:
     * Design the technical specifications of CMMS
@@ -39,20 +37,15 @@ Work experience
     * Conducted Business Continuity Plan in aerodrome of Agadir.
   * Supervisor: Pr. Mohamed Mliha
 
-* Summer 2017: Development Intern
----
-  * Al Barid Bank, Rabat, Morocco
+**07/2017 - 08/2017 | Development Intern | Al Barid Bank**
   * Duties included: Model the estimated routing time of parcels. 
   * Supervisor: Bassam Derkaoui
 
-* Spring 2017: Development Intern
----
-  * ONCF, Rabat, Morocco
+**03/2017 - 06/2017 | Development Intern | ONCF**
   * Duties included: Design the technical specifications
   * Supervisor: Pr. Mohamed Charkaoui
 
-* Summer 2015: Process intern
----
+**07/2015 | Process intern | Lafarge
   * Lafarge, Meknes, Morocco
   * Duties included: Diagnosed the dosing regulator.
   * Supervisor: Mr. Hamza Moussafir
