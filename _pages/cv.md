@@ -51,7 +51,7 @@ Skills
 ======
 
 * Data Management
-  * data cleansing, data completeness, data collection
+  * data cleansing, data completeness, data collection: Rest API
   
 * Web services
   * Rest API, Process automation, remote data storage
