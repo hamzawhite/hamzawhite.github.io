@@ -59,7 +59,7 @@ redirect_from:
 
 **Communication**: Data visualization, Presentation, Business analytics
 
-**Industry**: Manufacturing processes, Statistical process control, Design of Experiments, Operations research
+**Industry**: Manufacturing processes, Statistical process control, Design of Experiments, Operations research, Supply chain management
 
 **Visual Arts**: scientific illustration, comics, Character design, Graphic design, Computer graphics
   
