@@ -1,7 +1,7 @@
 ---
 title: 'Be an effective data scientist'
-date: 2021-10-14
-permalink: /posts/2014/08/blog-post-3/
+date: 2020-10-14
+permalink: /posts/2020/10/effective-data-scientist/
 tags:
   - Data science
   - business analytics
