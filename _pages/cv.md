@@ -53,20 +53,14 @@ redirect_from:
 
 # Skills
 ---
-* Data Management
-  * data cleansing, data completeness, data collection: Rest API
+**Data Management**: data cleansing, data completeness, data collection: Rest API
   
-* Web services
-  * Rest API, Process automation, remote data storage
+**Web services**: Rest API, Process automation, remote data storage
 
-* Communication
-  * Data visualization, Presentation, Business analytics
+**Communication**: Data visualization, Presentation, Business analytics
 
-* Industry
-  * Manufacturing processes, Statistical process control, Design of Experiments, Operations research
+**Industry**: Manufacturing processes, Statistical process control, Design of Experiments, Operations research
 
-* Visual Arts
-  * scientific illustration, comics, Character design, Graphic design, Computer graphics
+**Visual Arts**: scientific illustration, comics, Character design, Graphic design, Computer graphics
   
-* IT Skills
-  * R, Python, Ms Excel, IBM CPLEX
+**IT Skills**: R, Python, Ms Excel, IBM CPLEX
