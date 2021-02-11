@@ -1,19 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Anomaly detection in the transportation process'
+date: 2020-01-23
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - data analysis
   - anomaly detection
   - time series
----
-
----
-title: "Anomaly detection in the transportation process"
-author: "Hamza Imloul"
-date: "13/01/2021"
-output:
-  html_document: default
 ---
 
 # Introduction
