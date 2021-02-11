@@ -51,52 +51,19 @@ Skills
 ======
 
 * Data Management
-  * data cleansing
-  * data completeness
-  * data collection
+  * data cleansing, data completeness, data collection
   
 * Web services
-  * Rest API
-  * Process automation
+  * Rest API, Process automation, remote data storage
 
 * Communication
-  * Data visualization
-  * Presentation
+  * Data visualization, Presentation, Business analytics
 
 * Industry
-  * Manufacturing processes
-  * Statistical process control
-  * Design of Experiments
-  * Operations research
+  * Manufacturing processes, Statistical process control, Design of Experiments, Operations research
 
 * Visual Arts
-  * scientific illustration
-  * comics
-  * Character design
+  * scientific illustration, comics, Character design, Graphic design, Computer graphics
   
 * IT Skills
-  * R: Tydiverse, Shiny, Plotly, leaflet, httr
-  * Python
-  * Ms Excel
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * R {Tydiverse, Shiny, Plotly, leaflet, httr}, Python, Ms Excel, IBM CPLEX
