@@ -22,8 +22,8 @@ Work experience
 * Conducted Features selection and present information using data visualization techniques.
 * Cleaned and prepared structured and unstructured data, for appropriate statistical analysis.
 * Produced ML models to predict the behavior of the transportation process variables.
-• Developed machine learning method to Driver's behavior clustering using CAN Bus sensors data.
-• Automated pattern extraction from Proofs-of-delivery papers.
+* Developed machine learning method to Driver's behavior clustering using CAN Bus sensors data.
+* Automated pattern extraction from Proofs-of-delivery papers.
 * Coordinated and supported the team in the daily activities, HSSE insurance, and vehicles routing.
 * *Supervisor: Mr. Salaheddine Ait Ouakrim .Ing - Agadir, Morocco*
 
