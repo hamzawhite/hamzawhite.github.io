@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 This project was initiated by the need of tracking in real time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.  
+  
 ![fleetmap](/images/fleetmap_hamzaimloul.png)
