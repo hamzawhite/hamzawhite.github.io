@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+---
 * M.Sc. in industrial engineering, Minor: Operations research, Mohammadia School of engineering, 2018
 * B.Sc. in Applied mathematics, Ibn Zohr University, 2014
 
-Work experience (selected)
-======
+# Work experience (selected)
+---
 **09/2019 - 10/2020 | Business data analyst | Mixtra Trans**
 * Designed the technical specifications, centralized and deployed the fleet management system.
 * Recognized valuable data sources and automate collection and storage procedure.
@@ -51,9 +51,8 @@ Work experience (selected)
 * *Supervisor: Mr. Hamza Moussafir - Meknes, Morocco*
 -->
 
-Skills
-======
-
+# Skills
+---
 * Data Management
   * data cleansing, data completeness, data collection: Rest API
   
