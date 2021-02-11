@@ -28,7 +28,7 @@ Here my [Resume](https://hamzawhite.github.io/cv/)
 - Data preparation
 
 [Anomaly detection in the transportation process](https://rpubs.com/himl/713598) 
-- Designed machine learning methods to improve anomaly detection in the transportation process.
+- Designed data mining and time series methods to improve anomaly detection in the transportation process.
 
 [Fleet tracking web app](https://rpubs.com/himl/724135)
 
@@ -39,5 +39,5 @@ Technologies used
 - Remote data storage
 
 [Driver behavior clustering]()
-
+- Developed machine learning methods for driver behavior learning.
 
