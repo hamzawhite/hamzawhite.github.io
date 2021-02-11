@@ -18,25 +18,29 @@ Work experience
 ======
 **09/2019 - 10/2020 | Business data analyst | Mixtra Trans**
 * Designed the technical specifications, centralized and deployed the fleet management system.
-* Conducted Features selection and present information using data visualization techniques
-* Produced ML models to predict the behavior of the transportation process variables.
-* Recognize valuable data sources and automate collection and storage procedure.
+* Recognized valuable data sources and automate collection and storage procedure.
+* Conducted Features selection and present information using data visualization techniques.
 * Cleaned and prepared structured and unstructured data, for appropriate statistical analysis.
+* Produced ML models to predict the behavior of the transportation process variables.
+• Developed machine learning method to Driver's behavior clustering using CAN Bus sensors data.
+• Automated pattern extraction from Proofs-of-delivery papers.
 * Coordinated and supported the team in the daily activities, HSSE insurance, and vehicles routing.
 * *Supervisor: Mr. Salaheddine Ait Ouakrim .Ing - Agadir, Morocco*
 
 **03/2018 - 06/2018 | Development Intern | Vivo Energy**
-* Design the technical specifications of CMMS
-* Model the waiting time of aeronefs in aerodromes.
-* Conducted Business Continuity Plan in aerodrome of Agadir.
+* Designed the technical specifications and User Interfaces of the Computerized Maintenance Management System.
+* Modeled the the queuing system and the waiting time of aeronefs in aerodromes.
+* Conducted Business Continuity Plan in the aerodrome of Agadir.
 * *Supervisor: Pr. Mohamed Mliha - Casablanca, Morocco*
 
 **07/2017 - 08/2017 | Development Intern | Al Barid Bank**
-* Model the estimated routing time of parcels. Prepare the graph network structure, Deploy the tool to the ERP.
+* Modeled the estimated routing time of parcels.
+* Prepare the graph network structure.
+* Deployed the tool to the ERP.
 * *Supervisor: Bassam Derkaoui - Rabat, Morocco*
 
 **03/2017 - 06/2017 | Development Intern | ONCF**
-* Design the technical specifications for the freight demand planning.
+* Designed the technical specifications for the freight demand planning.
 * *Supervisor: Pr. Mohamed Charkaoui - Rabat, Morocco*
 
 **07/2015 | Process intern | Lafarge**
