@@ -1,7 +1,7 @@
 ---
 title: "Filter units by activity on the spatial map"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/fleetmap_hamzaimloul.png'>"
+excerpt: "Figure: visualized assets on a spatial map, with summary and colored items<br/><img src='/images/fleetmap_hamzaimloul.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project was initiated by the need of tracking in real time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.
