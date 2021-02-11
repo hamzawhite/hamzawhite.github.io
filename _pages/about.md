@@ -23,15 +23,15 @@ Here my [Resume](https://hamzawhite.github.io/cv/)
 
 ## Selected projects
 
-[Fleet performance visualization](https://www.rpubs.com/himl/fleet_performance_report)
+__[Fleet performance visualization](https://www.rpubs.com/himl/fleet_performance_report)__
 visualization techniques, Data preparation, Plotly, ggplot2
 
-[Anomaly detection in the transportation process](https://rpubs.com/himl/713598)
+__[Anomaly detection in the transportation process](https://rpubs.com/himl/713598)__
 Designed data mining and time series methods to improve anomaly detection in the transportation process.
 
-[Fleet tracking web app](https://rpubs.com/himl/724135)
+__[Fleet tracking web app](https://rpubs.com/himl/724135)__
 Technologies used: Rest API, Can bus, R Shiny, UX/UI, Remote data storage
 
-[Driver behavior clustering]()
+__[Driver behavior clustering]()__
 Developed machine learning methods for driver behavior learning.
 
