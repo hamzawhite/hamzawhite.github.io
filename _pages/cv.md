@@ -14,8 +14,6 @@ Education
 * M.S. in industrial engineering, Minor: Operations research, Mohammadia School of engineering, 2018
 * B.S in Applied mathematics, Ibn Zohr University, 2014
 
-
-
 Work experience
 ======
 **09/2019 - 10/2020 | Business data analyst | Mixtra Trans**
@@ -42,14 +40,14 @@ Work experience
 
 *Rabat, Morocco*
 
-* Model the estimated routing time of parcels. 
+* Model the estimated routing time of parcels. Prepare the graph network structure, Deploy the tool to the ERP.
 * Supervisor: Bassam Derkaoui
 
 **03/2017 - 06/2017 | Development Intern | ONCF**
 
 *Rabat, Morocco*
 
-* Design the technical specifications
+* Design the technical specifications for the freight demand planning.
 * Supervisor: Pr. Mohamed Charkaoui
 
 **07/2015 | Process intern | Lafarge**
