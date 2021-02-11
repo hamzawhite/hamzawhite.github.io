@@ -29,8 +29,7 @@ Work experience
     * Coordinated and supported the team in the daily activities, HSSE insurance, and vehicles routing.
   * Supervisor: Mr. Salaheddine Ait Ouakrim .Ing
 
-**03/2018 - 06/2018: Development Intern**
-  * Vivo Energy, Casablanca, Morocco
+**03/2018 - 06/2018 | Development Intern | Vivo Energy**
   * Duties included:
     * Design the technical specifications of CMMS
     * Model the waiting time of aeronefs in aerodromes.
@@ -45,7 +44,7 @@ Work experience
   * Duties included: Design the technical specifications
   * Supervisor: Pr. Mohamed Charkaoui
 
-**07/2015 | Process intern | Lafarge
+**07/2015 | Process intern | Lafarge**
   * Lafarge, Meknes, Morocco
   * Duties included: Diagnosed the dosing regulator.
   * Supervisor: Mr. Hamza Moussafir
