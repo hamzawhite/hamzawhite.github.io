@@ -66,4 +66,4 @@ Skills
   * scientific illustration, comics, Character design, Graphic design, Computer graphics
   
 * IT Skills
-  * R {Tydiverse, Shiny, Plotly, leaflet, httr}, Python, Ms Excel, IBM CPLEX
+  * R, Python, Ms Excel, IBM CPLEX
