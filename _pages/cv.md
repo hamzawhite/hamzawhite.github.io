@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in industrial engineering, Minor: Operations research, Mohammadia School of engineering, 2018
-* B.S in Applied mathematics, Ibn Zohr University, 2014
+* M.Sc. in industrial engineering, Minor: Operations research, Mohammadia School of engineering, 2018
+* B.Sc. in Applied mathematics, Ibn Zohr University, 2014
 
-Work experience
+Work experience (selected)
 ======
 **09/2019 - 10/2020 | Business data analyst | Mixtra Trans**
 * Designed the technical specifications, centralized and deployed the fleet management system.
@@ -39,14 +39,18 @@ Work experience
 * Deployed the tool to the ERP.
 * *Supervisor: Bassam Derkaoui - Rabat, Morocco*
 
+<!--
 **03/2017 - 06/2017 | Development Intern | ONCF**
 * Designed the technical specifications for the freight demand planning.
 * *Supervisor: Pr. Mohamed Charkaoui - Rabat, Morocco*
+-->
 
+<!--
 **07/2015 | Process intern | Lafarge**
 * Diagnosed the dosing regulator.
 * *Supervisor: Mr. Hamza Moussafir - Meknes, Morocco*
-  
+-->
+
 Skills
 ======
 
