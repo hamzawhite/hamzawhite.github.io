@@ -17,6 +17,7 @@ tags:
 [Beer Game](https://beergame.masystem.se/game/-MMKjG2kQcu1YXI-9Ju0/play#retailer)
 
 **Data science**  
-[UCI Machine learning repository](https://archive.ics.uci.edu/ml/datasets.php)
+[UCI Machine learning repository](https://archive.ics.uci.edu/ml/datasets.php)  
+[Datasetlist](https://www.datasetlist.com/?fbclid=IwAR0-doCdSVnlGnCTKFrpEFFp3x7A7i9zmPzL6OqBa6KSXYJi4pz92w6EPYI) 
 
 
