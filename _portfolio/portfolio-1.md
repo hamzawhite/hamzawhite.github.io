@@ -8,4 +8,4 @@ This project was initiated by the need of tracking in real time the moving asset
   
 ![fleetmap](/images/fleetmap_hamzaimloul.png)  
   
-Here is the link to the web application (example) (🔗)[https://rpubs.com/himl/724135]
+Here is the link to the web application (example) [🔗](https://rpubs.com/himl/724135)
