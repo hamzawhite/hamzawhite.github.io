@@ -1,6 +1,6 @@
 ---
 title: 'Good links'
-date: 2017-02-27
+date: 2021-02-12
 permalink: /posts/2021/02/good-links/
 tags:
   - transportation
@@ -12,6 +12,9 @@ tags:
 **Operations research**  
 [Real-time Scheduling Algorithms, MJC²](https://www.mjc2.com/research-scheduling-algorithms.htm)  
 [VRP Spreadsheet Solver, Xlsm](https://people.bath.ac.uk/ge277/vrp-spreadsheet-solver/)  
+
+**Supply chain management**  
+[Beer Game](https://beergame.masystem.se/game/-MMKjG2kQcu1YXI-9Ju0/play#retailer)
 
 **Data science**  
 [UCI Machine learning repository](https://archive.ics.uci.edu/ml/datasets.php)
