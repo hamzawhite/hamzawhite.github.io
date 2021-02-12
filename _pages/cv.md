@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+<object data="/files/hamza_imloul_resume_data.pdf" type="application/pdf" width="600px" height="775px">
+<embed src="/files/hamza_imloul_resume_data.pdf" type="application/pdf">
 
 # Education
 ---
@@ -64,7 +66,3 @@ redirect_from:
 **Visual Arts**: scientific illustration, comics, Character design, Graphic design, Computer graphics
   
 **IT Skills**: R, Python, Ms Excel, IBM CPLEX
-
-{% include base_path %}
-<object data="files/hamza_imloul_resume_data.pdf" type="application/pdf" width="600px" height="775px">
-<embed src="files/hamza_imloul_resume_data.pdf" type="application/pdf">
