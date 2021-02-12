@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 <object data="/files/hamza_imloul_resume_data.pdf" type="application/pdf" width="600px" height="775px">
 <embed src="/files/hamza_imloul_resume_data.pdf" type="application/pdf">
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/hamza_imloul_resume_data.pdf">Download PDF</a>.</p>
+</embed>
+</object>
+  
+The Portable version of resume can be downloaded [(Here)](https://hamzawhite.github.io/files/hamza_imloul_resume_data.pdf)
 
 # Education
 ---
