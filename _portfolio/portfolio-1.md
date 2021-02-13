@@ -2,8 +2,6 @@
 title: "Raise the edge of the asset tracking"
 excerpt: "Fleet management, a study case"
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"
 collection: portfolio
 ---
 
@@ -20,7 +18,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 --->
 
 
-This is a use case, I worked on, with a Transportation company, leader in the state, with 102 trucks, and 91 drivers to manage.
+Hi, This is a use case, I worked on, with a Transportation company, leader in the state, with 102 trucks, and 91 drivers to manage.
 
 # Situation  
 This project was initiated by the need of tracking in real-time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.  
