@@ -1,6 +1,6 @@
 ---
 title: "Raise the edge of the asset tracking"
-excerpt: "Figure: visualized assets on a spatial map, with summary and colored items"
+excerpt: "Fleet management, a study case"
 collection: portfolio
 ---
 **Situation**  
@@ -13,12 +13,16 @@ Track the performance of the fleet
 **Action**  
 * Prepared data.  
 * Recognized valuable datasets.  
-* Understanding the business.  
+* Understand the business workflow.  
 * Designed the sytem to be adapted to the users, made it easy to use, and interactive.  
-* Automated data collection.  
+* Automated process: Data collection, manipulation and visualization.  
+* Deployed the solution to be web-based.
 
 **Result**  
 The application is web-based, allowing authenticated users to visually control the moving assets of the company.  
+Reduce significantly the time of requests.  
+Collaborate effectively with the team, increase the reliability of communication.  
+Alerts are visualized on the map, no need for lists.  
   
 <!--- ![fleetmap](/images/fleetmap_hamzaimloul.png)  --->
 <img src="/images/fleetmap_hamzaimloul.png" width="500px"/>
