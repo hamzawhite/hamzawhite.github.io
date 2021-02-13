@@ -20,7 +20,7 @@ Track the performance of the fleet
 **Result**  
 The application is web-based, allowing authenticated users to visually control the moving assets of the company.  
   
-![fleetmap](/images/fleetmap_hamzaimloul.png)  
+![fleetmap](/images/fleetmap_hamzaimloul.png =500x300)  
   
 Below, you can experiment with the map layers! 
   
