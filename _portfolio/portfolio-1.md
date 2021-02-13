@@ -2,6 +2,11 @@
 title: "Raise the edge of the asset tracking"
 excerpt: "Fleet management, a study case"
 collection: portfolio
+tags:
+  - table of contents
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"
 ---
 
 This is a use case, I worked on, with a Transportation company, leader in the state, with 102 trucks, and 91 drivers to manage.
