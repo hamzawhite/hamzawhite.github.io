@@ -1,8 +1,8 @@
 ---
 title: "Raise the edge of the asset tracking"
 excerpt: "Fleet management, a study case"
-toc: true
 collection: portfolio
+toc: true
 ---
 
 <!--- 
