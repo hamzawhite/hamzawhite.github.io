@@ -1,15 +1,14 @@
 ---
 title: "Raise the edge of the asset tracking"
 excerpt: "Fleet management, a study case"
-tags:
-  - table of contents
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"
 collection: portfolio
 ---
 
-<!--- Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with: --->
+<!--- 
+Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with: 
 
 ```yaml
 ---
@@ -18,6 +17,8 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 ```
+--->
+
 
 This is a use case, I worked on, with a Transportation company, leader in the state, with 102 trucks, and 91 drivers to manage.
 
