@@ -1,6 +1,6 @@
 ---
 title: "Raise the edge of the asset tracking"
-excerpt: "Figure: visualized assets on a spatial map, with summary and colored items<br/><img src='/images/fleetmap_hamzaimloul.png'>"
+excerpt: "Figure: visualized assets on a spatial map, with summary and colored items"
 collection: portfolio
 ---
 **Situation**  
