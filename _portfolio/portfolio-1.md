@@ -40,7 +40,7 @@ the client preferred to make content in French. I will explain the meaning of it
 **Four Layers**:    
 | Layer      | Description        |
 | ----------- | ----------- |
-| `Etat`      | Show items by type of activity, if no GPS update was recorded for more than a customized period of time then the marker will be colored in red, else yellow or blue.        |
+| `Etat`      | Show items by type of activity, eg: if no GPS update was recorded for more than a customized period of time then the marker will be colored in red.        |
 | `Flotte`   | Show clusters of vehicles, it is useful when the dispatcher needs to know how many vehicles in a geographical zone        |
 | `Inactive`   | Show the inactive units, easy way to expose anomalies.        |
 | `poi`   | the sites of interest.        |
