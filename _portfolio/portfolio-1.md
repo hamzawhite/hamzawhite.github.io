@@ -25,8 +25,8 @@ The application is web-based, allowing authenticated users to visually control t
 Here is the link to the web application (example) [🔗](https://rpubs.com/himl/724135)  
   
 {% include base_path %}
-<object data="/files/map.html" type="application/html" width="500px" height="300px">
-<embed src="/files/map.html" type="application/html">
+<object data="/files/map.html" type="text/html" width="500px" height="300px">
+<embed src="/files/map.html" type="text/html">
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/map.html">Download HTML</a>.</p>
 </embed>
 </object>
