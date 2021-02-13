@@ -28,10 +28,19 @@ Alerts are visualized on the map, no need for lists.
 <img src="/images/fleetmap_hamzaimloul.png" width="500px"/>
   
 Below, you can experiment with the map layers! 
+the client preferred to make content in French. I will explain the meaning of items.
   
 {% include base_path %}
 <object data="/files/map.html" type="text/html" width="500px" height="300px">
 <embed src="/files/map.html" type="text/html">
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/map.html">Download HTML</a>.</p>
 </embed>
-</object>
+</object>  
+  
+**Four Layers**:    
+| Layer      | Description |
+| ----------- | ----------- |
+| `Etat`      | Show items by type of activity, if no GPS update was recorded for more than a customized period of time then the marker will be colored in red, else yellow or blue.       |
+| `Flotte`   | Show clusters of vehicles, it is useful when the dispatcher needs to know how many vehicles in a geographical zone        |
+| `Inactive`   | Show the inactive units, easy way to expose anomalies.        |
+| `poi`   | the sites of interest.        |
