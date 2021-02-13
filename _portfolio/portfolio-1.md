@@ -3,14 +3,20 @@ title: "Raise the edge of the asset tracking"
 excerpt: "Fleet management, a study case"
 collection: portfolio
 ---
-**Situation**  
+# Situation  
 This project was initiated by the need of tracking in real-time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.  
 
-**Task**  
+## Understand the business needs
+Dispatchers are using daily the platform, they needs to collaborate with many drivers, clients every day, so it is a bit stressful to use a platform not suited for their special needs.  
+
+# Task  
 Organizing the fleet management system  
 Track the performance of the fleet  
 
-**Action**  
+# Action  
+I took the time to ask them about the challenges they faces, what they want to have in the application. this step is very important before designing the solution.  
+Then I researched the best features to add, the techniques to acheive this solution.  
+I used R Shiny to develop a web based application, connecting with the APIs of Canbus, to customize the entire experience.  
 * Prepared data.  
 * Recognized valuable datasets.  
 * Understand the business workflow.  
@@ -18,7 +24,7 @@ Track the performance of the fleet
 * Automated process: Data collection, manipulation and visualization.  
 * Deployed the solution to be web-based.
 
-**Result**  
+# Result  
 The application is web-based, allowing authenticated users to visually control the moving assets of the company.  
 Reduce significantly the time of requests.  
 Collaborate effectively with the team, increase the reliability of communication.  
