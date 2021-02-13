@@ -10,6 +10,7 @@ tags:
 
 # Links  
 **Operations research**  
+[Operational Research, MC, IST](http://web.tecnico.ulisboa.pt/~mcasquilho/compute/_linpro/index.php)⭐  
 [Real-time Scheduling Algorithms, MJC²](https://www.mjc2.com/research-scheduling-algorithms.htm)  
 [VRP Spreadsheet Solver, Xlsm](https://people.bath.ac.uk/ge277/vrp-spreadsheet-solver/)  
 
