@@ -22,7 +22,7 @@ The application is web-based, allowing authenticated users to visually control t
   
 ![fleetmap](/images/fleetmap_hamzaimloul.png)  
   
-Here is the link to the web application (example) [🔗](https://rpubs.com/himl/724135)  
+Below, you can experiment with the map layers! 
   
 {% include base_path %}
 <object data="/files/map.html" type="text/html" width="500px" height="300px">
