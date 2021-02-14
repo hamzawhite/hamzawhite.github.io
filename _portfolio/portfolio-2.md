@@ -4,8 +4,8 @@ excerpt: "Operations research for trasportation management"
 toc: true
 collection: portfolio
 ---
-
-In this Article, we will apply Hungarian Algorithm to Optimize the 
+Reduce costs, and deadheads.
+In this Article, we will apply Hungarian Algorithm, which is an optimization algorithm.
 
 # Modelling the problem
 
