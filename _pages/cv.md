@@ -36,7 +36,7 @@ The Portable version of resume can be downloaded [(Here)](https://hamzawhite.git
 
 **03/2018 - 06/2018 | Development Intern | Vivo Energy**
 * Designed the technical specifications and User Interfaces of the Computerized Maintenance Management System.
-* Modeled the the queuing system and the waiting time of aeronefs in aerodromes.
+* Modeled the the queuing system and the waiting time of the refueling activity in the aerodrome of Agadir.
 * Conducted Business Continuity Plan in the aerodrome of Agadir.
 * *Supervisor: Pr. Mohamed Mliha - Casablanca, Morocco*
 
