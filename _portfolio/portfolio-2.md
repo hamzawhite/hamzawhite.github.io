@@ -1,9 +1,7 @@
 ---
-title: "Optimize the assignement, a GPS Based solution"
+title: "A GPS Based solution, for the dynamic assignement problem"
 excerpt: "Operations research for trasportation management"
-output:
-  toc: true
-  toc_float: true
+toc: true
 collection: portfolio
 ---
 
