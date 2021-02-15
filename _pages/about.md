@@ -12,7 +12,7 @@ redirect_from:
 
 I am a data scientist, industrial engineer. with experience in data management and data visualization using R and Python.
 I helped businesses to master their operations using data management and data science techniques.
-I completed my M.Sc in Industrial engineering at [Mohammadia School of engineering](https://www.emi.ac.ma/) with a minor in Operations research.
+I completed my M.Sc in Industrial engineering at [Ecole Mohammasia d'ingénieurs](https://www.emi.ac.ma/) with a minor in Operations research.
 Interested in Data-driven problem solving techniques, Product design, and machine learning.
 
 I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.
