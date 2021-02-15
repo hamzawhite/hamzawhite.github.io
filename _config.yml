@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Hamza Imloul"
+logo                     : "/images/kofi.png/"
 title_separator          : "-"
 name                     : &name "Hamza Imloul"
 description              : &description "Data Science engineer"
