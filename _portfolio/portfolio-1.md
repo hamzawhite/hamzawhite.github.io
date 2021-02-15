@@ -22,6 +22,8 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
   
 Hi, in this use case, I worked on, with a Transportation company, leader in the state, with 102 trucks, and 91 drivers to manage.
 
+<img src="/images/fleetmap_hamzaimloul.png" width="500px"/>  
+
 # Situation  
 This project was initiated by the need of tracking in real-time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.  
 
@@ -50,7 +52,6 @@ Collaborate effectively with the team, increase the reliability of communication
 Alerts are visualized on the map, no need for lists.  
   
 <!--- ![fleetmap](/images/fleetmap_hamzaimloul.png)  --->
-<img src="/images/fleetmap_hamzaimloul.png" width="500px"/>
   
 Below, you can experiment with the map layers! 
 the client preferred to make content in French. I will explain the meaning of items.
