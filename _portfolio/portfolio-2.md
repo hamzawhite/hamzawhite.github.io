@@ -2,6 +2,7 @@
 title: "A GPS Based solution, for the dynamic assignement problem"
 excerpt: "Operations research for trasportation management"
 toc: true
+comments: true
 collection: portfolio
 ---
 
