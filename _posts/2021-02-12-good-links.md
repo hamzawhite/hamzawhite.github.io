@@ -7,6 +7,8 @@ tags:
   - data analysis
   - machine learning
 ---
+[<img src="/images/kofi.png" alt="Buy me a coffee" height="30">](https://ko-fi.com/hamzaim)  
+  
 
 # Links  
 **Operations research**  
@@ -24,6 +26,8 @@ tags:
 [Datasets - Google research](https://datasetsearch.research.google.com/?fbclid=IwAR06hAdVne_AwPUaZda0X_U_e347dlB0tpRhBOFq1t0isHdH_Xjg0imh0lU)  
 []()  
 []()   
+
+**Good Reads**
   
 Relax  
 <iframe src="https://player.vimeo.com/video/505339516" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
