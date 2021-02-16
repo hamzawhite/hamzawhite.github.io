@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 header:
   overlay_image: /assets/images/oranges.jpg
-  caption: "Photo by [Hamza Imloul]() on [Behance]()"
+  
 redirect_from:
   - /about/
   - /about.html
@@ -19,13 +19,16 @@ I am a data scientist, with a "hybrid" background in operations research. experi
 I helped businesses to master their operations using data management and data science techniques.
 I completed my M.Sc in Industrial engineering at [Ecole Mohammadia d'ingénieurs](https://www.emi.ac.ma/) with a minor in Operations research.
 Interested in Data-driven problem solving techniques, Product design, and machine learning.
+{: .text-justify}
 
 I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.  
 am looking for job opportunities where I can help companies 
 **optimize operations and product development** 
 by delivering actionable data insights using R, Python, SQL and Tableau (or similar technologies).
-
+{: .text-justify}
+  
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis. Check my [illustrations](https://www.tumblr.com/blog/view/himl)  
+{: .text-justify}  
 
 Here my [Resume](https://hamzawhite.github.io/cv/)
 
