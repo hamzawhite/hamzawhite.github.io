@@ -3,6 +3,9 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
+header:
+    overlay_image: /images/kofi.png
+    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 redirect_from:
   - /about/
   - /about.html
