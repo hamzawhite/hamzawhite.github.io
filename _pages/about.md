@@ -19,7 +19,7 @@ Interested in Data-driven problem solving techniques, Product design, and machin
 
 I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.
 
-In my free time, I enjoy drawing, traveling / Hiking, and playing tennis.
+In my free time, I enjoy drawing, traveling / Hiking, and playing tennis. Check my [illustrations](https://www.tumblr.com/blog/view/himl)  
 
 Here my [Resume](https://hamzawhite.github.io/cv/)
 
