@@ -1,5 +1,5 @@
 ---
-title: "Raise the edge of the asset tracking"
+title: "Spatial Data Analysis for Logistics using R"
 excerpt: "Fleet management, a study case"
 collection: portfolio
 toc: true
