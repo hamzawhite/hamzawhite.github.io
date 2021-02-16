@@ -4,8 +4,8 @@ title: ""
 excerpt: "About me"
 author_profile: true
 header:
-    overlay_image: /images/kofi.png
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    overlay_image: /images/overlay_pic.jpg
+    caption: "Photo by [Hamza Imloul]() on [Behance]()"
 redirect_from:
   - /about/
   - /about.html
