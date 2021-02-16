@@ -5,22 +5,10 @@ collection: portfolio
 toc: true
 comments: true
 ---
-
-<!--- 
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with: 
-
-```yaml
----
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
---->
   
 [<img src="/images/kofi.png" alt="Buy me a coffee" height="30">](https://ko-fi.com/hamzaim)
   
-Hi, in this use case, I worked on, with a Transportation company, leader in the state, with 102 trucks, and 91 drivers to manage.
+Hi, in this tutorial, which is a project, I worked on, for a Transportation company, leader in the state, managing resources of 102 trucks, and 91 drivers.  
 
 <img src="/images/fleetmap_hamzaimloul.png" width="500px"/>  
 
@@ -28,10 +16,11 @@ Hi, in this use case, I worked on, with a Transportation company, leader in the 
 This project was initiated by the need of tracking in real-time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.  
 
 ## Understand the business needs
-Dispatchers, Operators and Management are using on a daily the platform, they needs to collaborate with many drivers, clients every day, so it is a bit stressful to use a platform not suited for their special needs.  
+First, we need to recognise the needs of actors, before jumping into data, to effectively meet their expectations.  
+Dispatchers, Operators and Management are using on a daily basis the fleet management platform, collaborate with many drivers, clients every day, so it is a bit stressful to use a platform not suited for their special needs.  
 
 # Task  
-Organizing the fleet management system  
+Organizing the fleet management system.
 Track the performance of the fleet  
 
 # Action  
@@ -44,6 +33,11 @@ I used R Shiny to develop a web based application, connecting with the APIs of C
 * Designed the sytem to be adapted to the users, made it easy to use, and interactive.  
 * Automated process: Data collection, manipulation and visualization.  
 * Deployed the solution to be web-based.
+
+## Data preparation
+Created geofencing zones  
+Organised the master data of resources
+
 
 # Result  
 The application is web-based, allowing authenticated users to visually control the moving assets of the company.  
