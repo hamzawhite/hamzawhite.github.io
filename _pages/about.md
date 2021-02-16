@@ -14,10 +14,13 @@ redirect_from:
 
 I am a data scientist, with a "hybrid" background in operations research. experienced in data management and data visualization using R and Python.
 I helped businesses to master their operations using data management and data science techniques.
-I completed my M.Sc in Industrial engineering at [Ecole Mohammasia d'ingénieurs](https://www.emi.ac.ma/) with a minor in Operations research.
+I completed my M.Sc in Industrial engineering at [Ecole Mohammadia d'ingénieurs](https://www.emi.ac.ma/) with a minor in Operations research.
 Interested in Data-driven problem solving techniques, Product design, and machine learning.
 
-I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.
+I develop statistical methods and software to extract useful insights from complex large-scale data sets, arising from various real-world applications.  
+am looking for job opportunities where I can help companies 
+**optimize operations and product development** 
+by delivering actionable data insights using R, Python, SQL and Tableau (or similar technologies).
 
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis. Check my [illustrations](https://www.tumblr.com/blog/view/himl)  
 
