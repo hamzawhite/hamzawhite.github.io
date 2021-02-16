@@ -4,7 +4,7 @@ title: ""
 excerpt: "About me"
 author_profile: true
 header:
-    overlay_image: /images/overlay_pic.jpg
+    overlay_image: /images/overlay_pic.jpg/
     caption: "Photo by [Hamza Imloul]() on [Behance]()"
 redirect_from:
   - /about/
