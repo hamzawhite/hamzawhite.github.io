@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+`hamzawhite` is my personal blog to keep track on my projects. Welcome!
+  
 ## Bio
 
-I am a data scientist, industrial engineer. with experience in data management and data visualization using R and Python.
+I am a data scientist, with a "hybrid" background in operations research. experienced in data management and data visualization using R and Python.
 I helped businesses to master their operations using data management and data science techniques.
 I completed my M.Sc in Industrial engineering at [Ecole Mohammasia d'ingénieurs](https://www.emi.ac.ma/) with a minor in Operations research.
 Interested in Data-driven problem solving techniques, Product design, and machine learning.
