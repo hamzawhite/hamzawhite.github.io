@@ -27,7 +27,7 @@ am looking for job opportunities where I can help companies
 by delivering actionable data insights using R, Python, SQL and Tableau (or similar technologies).
 {: .text-justify}
   
-In my free time, I enjoy drawing, traveling / Hiking, and playing tennis. Check my [illustrations](https://www.tumblr.com/blog/view/himl)  
+In my free time, I enjoy drawing, traveling / Hiking, and playing tennis. Check my [illustrations](https://himl.tumblr.com/)  
 {: .text-justify}  
 
 Here my [Resume](https://hamzawhite.github.io/cv/)
