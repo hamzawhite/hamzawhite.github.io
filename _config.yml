@@ -12,9 +12,9 @@ logo                     : "/images/favicon-32x32.png/"
 title_separator          : "-"
 name                     : &name "Hamza Imloul"
 description              : &description "Data Science engineer"
-url                      : https://hamzads.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://himloul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hamzads/hamzads.github.io"
+repository               : "himloul/himloul.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -24,7 +24,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider: "disqus"
   disqus:
-    shortname: "https-hamzads-github-io"
+    shortname: "https-himloul-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hamzads"
+  github           : "himloul"
   google_plus      :
   keybase          :
   instagram        :
