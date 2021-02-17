@@ -21,7 +21,7 @@ Dispatchers, Operators and Management are using on a daily basis the fleet manag
 
 # Task  
 Organizing the fleet management system.
-Track the performance of the fleet  
+Track the performance of the fleet.  
 
 # Action  
 I took the time to ask them about the challenges they faces, what they want to have in the application. this step is very important before designing the solution.  
@@ -35,8 +35,9 @@ I used R Shiny to develop a web based application, connecting with the APIs of C
 * Deployed the solution to be web-based.
 
 ## Data preparation
-Created geofencing zones  
-Organised the master data of resources
+Defined Points of interest (Latitude, Longitude).  
+Created geofencing zones.  
+Organised the master data of resources (drivers, trucks, trailers, and points of interest).  
 
 
 # Result  
