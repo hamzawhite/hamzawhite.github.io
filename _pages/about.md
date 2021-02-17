@@ -3,9 +3,6 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-header:
-  overlay_image: /images/oranges.jpg
-  overlay_filter: 0.5
 redirect_from:
   - /about/
   - /about.html
