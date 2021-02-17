@@ -1,6 +1,6 @@
 ---
-title: "Data pre-processing tool, for geofencing alerts mails"
-excerpt: "Automation of the data preparation process, from collection to delivery"
+title: "Data pre-processing tool, of geofencing events dataset using R"
+excerpt: "Automation of the data preparation process, from collection to delivery using R, and Gmail API"
 collection: portfolio
 toc: true
 comments: true
