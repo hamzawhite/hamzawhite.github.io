@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-`hamzawhite` is my personal blog to keep track on my projects. Welcome!
+`himloul` is my personal blog to keep track on my projects. Welcome!
   
 ## Bio
 
