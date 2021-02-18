@@ -15,7 +15,8 @@ In this Article, we will apply Hungarian Algorithm, which is an optimization alg
 
 ## Brainstorming session
 First, I should to draft some ideas on paper,  
-![brainstorm planning](/images/braistorm_trans_planning.jpg)
+<img src="/images/braistorm_trans_planning.jpg/" alt="brainstorm planning">
+
 
 ## Cost matrix
 
