@@ -13,6 +13,10 @@ In this Article, we will apply Hungarian Algorithm, which is an optimization alg
 
 # Modelling the problem
 
+## Brainstorming session
+First, I should to draft some ideas on paper,  
+![brainstorm planning](/images/braistorm_trans_planning.jpg)
+
 ## Cost matrix
 
 # Solution
