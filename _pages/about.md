@@ -43,3 +43,7 @@ Technologies used: Rest API, Can bus, R Shiny, UX/UI, Remote data storage
 __[Driver behavior clustering]()__  
 Developed machine learning methods for driver behavior learning.
 
+## Key words
+  
+**R** (Tidyverse, ggplot2, Ploty, Leaflet, sf, httr), **Python** (Pandas, Numpy, Requests), Data cleaning, Mail merging, Data completeness, Data Visualisation, Automation, Statistical learning, Survival analysis, Applied research, Operations research, Tableau, Rest APIs, Morphological Image Processing, Spatial data analysis, IoT, Remote data storage, Illustration.
+
