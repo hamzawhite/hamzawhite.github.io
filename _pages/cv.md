@@ -14,7 +14,7 @@ redirect_from:
 </embed>
 </object>
   
-The Portable version of resume can be downloaded [(Here)](https://hamzawhite.github.io/files/hamza_imloul_resume_data.pdf)
+The Portable version of resume can be downloaded [(Here)](https://himloul.github.io/files/hamza_imloul_resume_data.pdf)
 
 # Education
 ---
