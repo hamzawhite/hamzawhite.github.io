@@ -1,5 +1,5 @@
 ---
-title: 'Good links'
+title: 'Good resources'
 date: 2021-02-12
 permalink: /posts/2021/02/good-links/
 tags:
@@ -7,7 +7,9 @@ tags:
   - data analysis
   - machine learning
 ---
- 
+
+I share with you, some of the resources I considered in my recent years, to learn data science and operations research, outside of my academic curriculum.
+
 # Links  
 **Operations research**  
 [Operational Research, MC, IST](http://web.tecnico.ulisboa.pt/~mcasquilho/compute/_linpro/index.php)⭐  
