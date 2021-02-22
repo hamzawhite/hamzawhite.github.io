@@ -16,7 +16,9 @@ Hi, in this tutorial, which is a project, I worked on, for a Transportation comp
 This project was initiated by the need of tracking in real-time the moving assets. The result, as we see, is a spatial map with multiple layers to filter the units.  
 
 ## Understand the business needs
-First, we need to recognise the needs of actors, before jumping into data, to effectively meet their expectations.  
+The first question to ask management is what exactly the business objective is.  How does the company expect to use and benefit.
+from this model?  
+we need to recognise the needs of actors, before jumping into data, to effectively meet their expectations.  
 Dispatchers, Operators and Management are using on a daily basis the fleet management platform, collaborate with many drivers, clients every day, so it is a bit stressful to use a platform not suited for their special needs.  
 
 # Task  
