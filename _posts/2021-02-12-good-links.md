@@ -29,6 +29,7 @@ tags:
 ### Books
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646)
+[Introduction to Statistical Learning, with R](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)  
 
 **Good Reads**
   
