@@ -8,4 +8,7 @@ tags:
   - data analysis
   - automation
 ---
+
+Automate the process of sending customized emails to a set of destinations.  
+
 [<img src="/images/kofi.png" alt="Buy me a coffee" height="30">](https://ko-fi.com/hamzaim) 
