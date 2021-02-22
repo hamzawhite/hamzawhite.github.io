@@ -18,7 +18,9 @@ In this Article, we will apply Hungarian Algorithm, which is an optimization alg
 
 ## Brainstorming session
 First, I should to draft some ideas on paper,  
-<img src="/images/braistorm_trans_planning.jpg/" alt="brainstorm planning">  
+
+<img src="/images/braistorm_trans_planning.jpg/">  
+
 If you are not familiar with trasnportation problems, you can check this good website, [Here](http://web.tecnico.ulisboa.pt/~mcasquilho/compute/_linpro/index.php)
 
 ## Cost matrix
