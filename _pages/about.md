@@ -27,7 +27,7 @@ by delivering actionable data insights using R, Python, SQL and Tableau (or simi
 In my free time, I enjoy drawing, traveling / Hiking, and playing tennis. Check my [illustrations](https://himl.tumblr.com/)  
 {: .text-justify}  
 
-Here my [Resume](https://hamzawhite.github.io/cv/)
+Here my [Resume](https://himloul.github.io/cv/)
 
 ## Selected projects
 
