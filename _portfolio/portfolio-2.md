@@ -41,6 +41,17 @@ with
 `b_{ij}`	bonus of driver to performs the mission i to j.  
 `p_{ij}`	profit of transportation from the source i to the destination j.  
 
+the {vpij}^{th} element is the cost of assigning the resource v located in p, to the task: source i to destination j. the matrix is 4-dimensionnal.  
+We research to add penalty cost related to in-site time in sources and destinations, to avoid missions with a large cycle time. + Probability to blockage InSite due to infraction (wheels state…).  
+
+| Cost | dataset |
+| --- | --- |
+| `{cf}_v` | FMP API (Performance) |
+| `d_{ij}` | OD Matrix |
+| `p_{ij}` | Sales profits dataset |
+| `d_{pi}` | osrm API (real-time) |
+| `fleet` | FMP API (Position) |
+
 
 # Solution
 
