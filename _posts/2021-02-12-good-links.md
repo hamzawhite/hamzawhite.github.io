@@ -26,7 +26,9 @@ I share with you, some of the resources I considered in my recent years, to lear
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets?fbclid=IwAR3Py3USWgTx3AhudT-acvyw0RHO7WqqsHR2l6OGttVe6aaNpH8C50UUIDQ)  
 [Datasets - Google research](https://datasetsearch.research.google.com/?fbclid=IwAR06hAdVne_AwPUaZda0X_U_e347dlB0tpRhBOFq1t0isHdH_Xjg0imh0lU)  
 []()  
-[]()   
+[]()  
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 ## Deep learning
  [Deep learning Cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)  
