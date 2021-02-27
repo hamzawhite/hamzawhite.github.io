@@ -28,6 +28,9 @@ I share with you, some of the resources I considered in my recent years, to lear
 []()  
 []()   
 
+## Deep learning
+ [Deep learning Cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)  
+
 ### Books
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646)  
