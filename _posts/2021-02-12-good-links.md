@@ -30,6 +30,8 @@ I share with you, some of the resources I considered in my recent years, to lear
 
 ## Deep learning
  [Deep learning Cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)  
+ [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/products/ai-machine-learning/learn-tensorflow-and-deep-learning-without-a-phd)  
+ [TensorFlow tutorials](https://www.tensorflow.org/tutorials/)
 
 ### Books
 
