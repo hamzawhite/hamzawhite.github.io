@@ -45,7 +45,4 @@ I share with you, some of the resources I considered in my recent years, to lear
 [<img src="/images/kofi.png" alt="Buy me a coffee" height="30">](https://ko-fi.com/hamzaim)  
 
 Relax  
-<iframe src="https://player.vimeo.com/video/505339516" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My article about asset tracking using visualization techniques, to solve some of the challenging problems in fleet management.<br>Made with passion using R.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a><a href="https://t.co/LfxxtOCYM5">https://t.co/LfxxtOCYM5</a></p>&mdash; Hamza (@hamzaonde) <a href="https://twitter.com/hamzaonde/status/1360558882054103043?ref_src=twsrc%5Etfw">February 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<iframe src="https://player.vimeo.com/video/505339516" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
