@@ -46,4 +46,6 @@ Developed machine learning methods for driver behavior learning.
 ## Key words
   
 **R** (Tidyverse, ggplot2, Plotly, Leaflet, sf, httr, Shiny), **Python** (Pandas, Numpy, Requests, Scikit-learn), Data cleaning, Mail merging, Data completeness, Data Visualisation, Automation, Statistical learning, Survival analysis, Applied research, Operations research, Tableau, Rest APIs, Morphological Image Processing, Spatial data analysis, IoT, Remote data storage, Illustration.
+  
+![image](/images/ev.gif)
 
