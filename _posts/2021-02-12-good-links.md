@@ -42,7 +42,7 @@ I share with you, some of the resources I considered in my recent years, to lear
   
 ### Challenges
 
-NASA Space Apps Challenge
+NASA Space Apps Challenge  
 [Challenges | Inform](https://2020.spaceappschallenge.org/challenges/inform/)  
 
   
