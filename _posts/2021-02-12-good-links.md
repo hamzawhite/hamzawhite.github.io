@@ -16,6 +16,9 @@ I share with you, some of the resources I considered in my recent years, to lear
 [Real-time Scheduling Algorithms, MJC²](https://www.mjc2.com/research-scheduling-algorithms.htm)  
 [VRP Spreadsheet Solver, Xlsm](https://people.bath.ac.uk/ge277/vrp-spreadsheet-solver/)  
 
+** Design
+[Modelling in Blender a Human Hand](https://topologyguides.com/)  
+
 **Supply chain management**  
 [Beer Game](https://beergame.masystem.se/game/-MMKjG2kQcu1YXI-9Ju0/play#retailer)
 
